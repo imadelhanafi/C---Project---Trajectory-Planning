@@ -1,0 +1,20 @@
+#Nombreobstacles
+3
+#Polygone
+3
+1 1
+2 1
+2 2
+#Polygone
+4
+3 3
+4 3
+5 4
+4 4
+#Polygone
+4
+1 3
+2 3
+2 4
+1 4
+
